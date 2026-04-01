@@ -46,7 +46,7 @@ is a lot of characters), but the work here is real.
         <em>Toolkit for working with NMEA data streams (in progress)<em>
       </td>
       <td>—</td>
-      <td><a href="https://goreportcard.com/report/github.com/mab-go/nmea"><img src="https://goreportcard.com/badge/github.com/mab-go/xmind-mcp" alt="Go Report Card" /></a></td>
+      <td><a href="https://goreportcard.com/report/github.com/mab-go/nmea"><img src="https://goreportcard.com/badge/github.com/mab-go/nmea" alt="Go Report Card" /></a></td>
       <td><a href="https://github.com/mab-go/nmea/commits/master"><img src="https://img.shields.io/github/last-commit/mab-go/nmea?style=flat&cachebuster=5000" alt="Last Commit" /></a></td>
       <td><img src="https://img.shields.io/github/license/mab-go/nmea?style=flat" alt="License" /></td>
     </tr>
@@ -56,8 +56,8 @@ is a lot of characters), but the work here is real.
         <em>Optional types for Go (archived)</em>
       </td>
       <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td><a href="https://goreportcard.com/report/github.com/mab-go/opt"><img src="https://goreportcard.com/badge/github.com/mab-go/opt" alt="Go Report Card" /></a></td>
+      <td><a href="https://goreportcard.com/report/github.com/mab-go/opt"><img src="https://img.shields.io/badge/last_commit-archived-white?style=flat" alt="Last Commit" /></a></td>
       <td><img src="https://img.shields.io/github/license/mab-go/opt?style=flat" alt="License" /></td>
     </tr>
   </tbody>
