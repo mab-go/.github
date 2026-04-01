@@ -33,7 +33,7 @@ is a lot of characters), but the work here is real.
       <td><a href="https://github.com/mab-go/sheets-mcp">sheets-mcp</a></td>
       <td>MCP server for Google Sheets</td>
       <td><a href="https://github.com/mab-go/sheets-mcp/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/mab-go/sheets-mcp/ci.yml?style=flat&logo=github&logoColor=white&labelColor=555555&label=build" alt="Build Status" /></a></td>
-      <td><a href="https://goreportcard.com/report/github.com/mab-go/sheets-mcp"><img src="https://goreportcard.com/badge/github.com/mab-go/sheets-mcp" alt="Go Report Card" /></a></td>
+      <td><a href="https://goreportcard.com/report/github.com/mab-go/sheets-mcp"><img src="https://goreportcard.com/badge/github.com/mab-go/sheets-mcp?cachebuster=5000" alt="Go Report Card" /></a></td>
       <td><img src="https://img.shields.io/github/last-commit/mab-go/sheets-mcp?style=flat" alt="Last Commit" /></td>
       <td><img src="https://img.shields.io/github/license/mab-go/sheets-mcp?style=flat" alt="License" /></td>
     </tr>
