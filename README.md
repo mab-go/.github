@@ -33,12 +33,22 @@ is a lot of characters), but the work here is real.
     <tr>
       <td>
         <a href="https://github.com/mab-go/sheets-mcp">sheets-mcp</a><br><br>
-        <em>MCP server for Google Sheets</em>
+        <em>MCP server for Google Sheets; responses optimized using TOON (Token-Oriented Object Notation)</em>
       </td>
       <td><a href="https://github.com/mab-go/sheets-mcp/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/mab-go/sheets-mcp/ci.yml?style=flat&logo=github&logoColor=white&labelColor=555555&label=build" alt="Build Status" /></a></td>
       <td><a href="https://goreportcard.com/report/github.com/mab-go/sheets-mcp"><img src="https://goreportcard.com/badge/github.com/mab-go/sheets-mcp" alt="Go Report Card" /></a></td>
       <td><a href="https://github.com/mab-go/sheets-mcp/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/sheets-mcp?style=flat" alt="Last Commit" /></a></td>
       <td><a href="https://github.com/mab-go/sheets-mcp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/sheets-mcp?style=flat" alt="License" /></a></td>
+    </tr>
+    <td>
+        <a href="https://github.com/mab-go/golem">golem</a><br><br>
+        <em>Autonomous AI agent (powered by Claude) that plays Minecraft as a genuine co-op survival partner</em>
+      </td>
+      <td>—</td>
+      <!-- <td><a href="https://github.com/mab-go/golem/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/mab-go/golem/ci.yml?style=flat&logo=github&logoColor=white&labelColor=555555&label=build" alt="Build Status" /></a></td> -->
+      <td><a href="https://goreportcard.com/report/github.com/mab-go/golem"><img src="https://goreportcard.com/badge/github.com/mab-go/golem" alt="Go Report Card" /></a></td>
+      <td><a href="https://github.com/mab-go/golem/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/golem?style=flat" alt="Last Commit" /></a></td>
+      <td><a href="https://github.com/mab-go/golem/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/golem?style=flat" alt="License" /></a></td>
     </tr>
     <tr>
       <td>
@@ -67,7 +77,8 @@ is a lot of characters), but the work here is real.
 
 ## What's Next
 
+- Fixes and final polish to [`golem`](https://github.com/mab-go/golem) 
 - Enhancements to [`xmind-mcp`](https://github.com/mab-go/xmind-mcp) and
   [`sheets-mcp`](https://github.com/mab-go/sheets-mcp)
 - Finishing the [NMEA Toolkit](https://github.com/mab-go/nmea)
-- More MCP servers (as the need arises)
+- More MCP servers (as needed)
